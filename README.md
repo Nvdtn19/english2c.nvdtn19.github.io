@@ -1,12 +1,6 @@
-This repo is for translate 植物大战僵尸2 (plants vs zombies 2 Chinese) into:
+This repo store the translated lawnstrings for 植物大战僵尸2 (plants vs zombies 2 Chinese) from Chinese to English.
 
-English/French
+Owner: Nvdtn19 
 
-Anglais/français
-
-
-i use that type of tools
-
-https://github.com/Haruma-VN
-https://haruma-vn.github.io/Sen.Environment/
-
+Tools used: [Sen](https://haruma-vn.github.io/Sen.Environment/), 
+[Twinning](https://github.com/twinstar6980/Twinning.Documentation)
